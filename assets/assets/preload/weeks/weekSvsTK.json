@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Paralysis",
+			"super-sonic-trolled",
+			[
+				255,
+				233,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "super sonic vs troll king",
+	"weekName": "Week SvsTK",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
